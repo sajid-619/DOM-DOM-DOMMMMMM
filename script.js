@@ -1,4 +1,4 @@
-/ 'DOMContentLoaded' event handler on document
+
 document.addEventListener('DOMContentLoaded', () => {
     const body = document.querySelector('body');
 
