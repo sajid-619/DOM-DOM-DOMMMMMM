@@ -1,0 +1,9 @@
+.div-square {
+    width: 8rem;
+    height: 8rem;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: rgb(108, 117, 125, 0.825);
+    border-radius: 5px;
+    display: inline-block;
+}
